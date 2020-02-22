@@ -1,6 +1,6 @@
 ### Flask_Demo_Heroku
 
-source code taken from: https://github.com/krishnaik06/Deployment-flask
+source code taken from: https://github.com/krishnaik06/Deployment-flask.
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
 ### Project Structure
